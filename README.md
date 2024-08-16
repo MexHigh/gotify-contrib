@@ -2,7 +2,7 @@
 
 Do you want to contribute to the gotify project? Have a look at our [contributing.md](https://github.com/gotify/server/blob/master/CONTRIBUTING.md).
 
-Here you'll find community contributions to the Gotify project.
+Here you'll find community contributions to the Gotify project. Nice!
 
 ## Guides
 
